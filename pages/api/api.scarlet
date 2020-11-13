@@ -10,5 +10,15 @@
 	.buttons
 		justify-content flex-start
 
-.api-types
-	// ...
+.token
+	width fit-content
+
+	pre
+		ui-element
+		input-focus
+		user-select all
+		font-family inherit
+		font-size 1em
+		line-height 1.25em
+		color text-color
+
